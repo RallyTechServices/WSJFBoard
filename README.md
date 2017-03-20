@@ -8,34 +8,34 @@ Portfolio Items of interest can be selected by entering a query in the App Setti
 
 If any filter is applied (i.e. via query box or by using a page filtered by release) the ability to commit the rank is removed. This is a safety feature to avoid time consuming mistakes (and not a bug)!
 
-![alt text](https://github.com/nikantonelli/WSJFBoard/blob/master/images/overview.jpg)
+![alt text](images/overview.jpg)
 
 ## Features
 
 Inline editing:
 
-![alt text](https://github.com/nikantonelli/WSJFBoard/blob/master/images/inline%20editing.jpg)
+![alt text](images/inline%20editing.jpg)
 
 Normal editing menu:
 
-![alt text](https://github.com/nikantonelli/WSJFBoard/blob/master/images/normal%20edit%20menu.jpg)
+![alt text](images/normal%20edit%20menu.jpg)
 
 Bulk editing to standard values:
 
-![alt text](https://github.com/nikantonelli/WSJFBoard/blob/master/images/Bulk%20edit%20menu.jpg)
-![alt text](https://github.com/nikantonelli/WSJFBoard/blob/master/images/fibonacci.jpg)
+![alt text](images/Bulk%20edit%20menu.jpg)
+![alt text](images/fibonacci.jpg)
 
 The standard values can be changed in the data blocks at the end of the source code file (App.js) or directly in the html after you have loaded it into the custom html page.
 
 Commit of viewed WSJF table as rank in the database:
 
-![alt text](https://github.com/nikantonelli/WSJFBoard/blob/master/images/set%20global%20rank.jpg)
+![alt text](images/set%20global%20rank.jpg)
 
 ## Helper messages
 
 Hover over the column titles to get pop-ups with 'reminder' info on the column. These too, can be changed in the data blocks to your needs.
 
-![alt text](https://github.com/nikantonelli/WSJFBoard/blob/master/images/hoverhelp.png)
+![alt text](images/hoverhelp.png)
 
 ## User settings
 
@@ -51,7 +51,17 @@ By going to "Edit App Settings" from the gear in the top right hand corner:
 
 If you change from JobSize to PrelimEst and set the 'recalculate on load' checkbox, the app will rework the numbers accordingly.
 
-![alt text](https://github.com/nikantonelli/WSJFBoard/blob/master/images/options.png)
+![alt text](images/options.png)
+
+## New Functionality 
+
+You may choose to display advanced filter on the application by checking the following on App Settings. 
+
+![alt text](images/new1.png)
+
+Please not that this will remove the ability to commit the rank.
+
+![alt text](images/new2.png)
 
 ## Caveat!
 
